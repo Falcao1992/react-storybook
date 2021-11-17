@@ -5,11 +5,11 @@ FROM node:14.15.0-alpine
 WORKDIR /app
 
 # install app dependencies
-COPY package.json ./
+COPY ../package.json ./
 RUN yarn install
 
 # add app
 COPY . .
 
 # start app
-CMD ["yarn", "start"]
+CMD ["yarn", "storybook"]

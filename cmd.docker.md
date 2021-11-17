@@ -6,7 +6,7 @@
 
 ```docker-compose up -d --build```
 
-### Images
+# Images
 
 ## Liste
 
@@ -20,7 +20,7 @@
 
 ```docker image prune```
 
-### Docker-Compose
+# Docker-Compose
 
 ## Eteindre
 

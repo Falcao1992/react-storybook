@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Dyl est une merguez
+          Eduardo est une salope
         </a>
       </header>
     </div>

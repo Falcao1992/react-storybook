@@ -1,3 +1,17 @@
+# Help
+
+```docker --help```
+
+# Docker 
+
+## build Dockerfile
+
+```docker build .```
+
+## Run
+
+```docker run```
+
 ## Creer image
 ```docker build -t story-image .```
 

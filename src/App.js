@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Eduardo est une salope
+          learn react
         </a>
       </header>
     </div>
